@@ -8,6 +8,18 @@ This project helps people to divide restaurant bill between people including tip
 
 No ink or paper needed.
 
+Ypu also can mo
+
 ### How to use the App.
 
+You need to open Split a Bill Website using *Copy Path* method. 
+
+Ater you opened a website you will see input window where it says "Bill", it is where customer type in total amount from their receipt:
+
+####
+ **```
+     <input type="text" id="bill" placeholder="Bill">
+     ```**
+
+   ##### **Note: file - index.html.**
 
