@@ -31,6 +31,31 @@ Ater you opened a website you will see input window where it says "Bill", it is 
        ```**
 
    ##### **Note: file - index.html.**
+
+   On a the end you will have an option to add or not add the tip. And you also can add different tip percentage:
+
+   ####
+   **```
+             <option disabled>Select an option</option>
+          ```**
+
+   **```
+              <option value="0.30">Wow! 30%💗 </option>
+              ```**
+
+   **```
+              <option value="0.20">Good service! 20% 💙</option>
+               ```**
+
+   **```
+              <option value="0.10">It was OK! 10% 🙂</option>
+              ```**
+
+   **```
+              <option value="0.00" selected>No tip!🙅‍♀️</option>
+              ```**
+
+   ##### **Note: file - index.html.**
    
    
 
