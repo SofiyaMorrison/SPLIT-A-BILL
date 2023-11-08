@@ -84,6 +84,8 @@ Ater you opened a website you will see input window where it says "Bill", it is 
 
    ####
 * JavaScript
+* CSS
+* HTML
    
    
 
