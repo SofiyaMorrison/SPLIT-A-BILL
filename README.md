@@ -23,3 +23,14 @@ Ater you opened a website you will see input window where it says "Bill", it is 
 
    ##### **Note: file - index.html.**
 
+   Then customer needs to type between how many people that bill will be splited. You do that in input window that says "How many people?":
+
+  ####
+  **```
+       <input type="text" id="people" placeholder="How many people?">
+       ```**
+
+   ##### **Note: file - index.html.**
+   
+   
+
