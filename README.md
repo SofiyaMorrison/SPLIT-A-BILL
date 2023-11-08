@@ -57,7 +57,7 @@ Ater you opened a website you will see input window where it says "Bill", it is 
 
    ##### **Note: file - index.html.**
 
-   And after that you finally press button **"Calculate"** to see how much each person needs to pay. Under the button you will see 3 columns: 
+   And after that you finally press button **Calculate** to see how much each person needs to pay. Under the button you will see 3 columns: 
 
    -Bill per person
 
@@ -79,7 +79,10 @@ Ater you opened a website you will see input window where it says "Bill", it is 
         ```**
   
 ##### **Note: file - index.js.**
-   
+
+   ### Built With 
+
+   #### * [JavaScript]
    
    
 
