@@ -8,7 +8,7 @@ This project helps people to divide restaurant bill between people including tip
 
 No ink or paper needed.
 
-Ypu also can mo
+You also can use this project as general website template for taxi or concert services and so on.
 
 ### How to use the App.
 
